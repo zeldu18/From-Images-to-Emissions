@@ -1,4 +1,4 @@
-# Tham số đầu vào
+# Input
 
 - https://docs.ultralytics.com/modes/predict/#inference-arguments
 
